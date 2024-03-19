@@ -2,6 +2,8 @@
 # Jason Xu 101220729
 # Java PostgreSQL CRUD Application
 
+Video: https://youtu.be/VQYERfcrobk
+
 This Java application connects to a PostgreSQL database to perform CRUD operations on a `students` table.
 
 ## Setup Instructions
